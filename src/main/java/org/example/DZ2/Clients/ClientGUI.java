@@ -25,11 +25,11 @@ public class ClientGUI extends JFrame implements ClientView {
     private JPanel headerPanel;
 
     private static final String[] USERS = {
-            new ClientInfo("Ivan_Ivanovich").getName(),
-            new ClientInfo("Petr_Petrovich").getName(),
-            new ClientInfo("Vasilisa_Vasilisovna").getName(),
-            new ClientInfo("Zaxar_Zaxarovich").getName(),
-            new ClientInfo("Nicka_Nickolayevna").getName()
+            new ClientInfo("Паша").getName(),
+            new ClientInfo("Сергей").getName(),
+            new ClientInfo("Софья").getName(),
+            new ClientInfo("Олег").getName(),
+            new ClientInfo("Ольга").getName()
     };
     private JComboBox comboBox = null;
 
