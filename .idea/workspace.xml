@@ -5,18 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="995ddd34-c622-4e77-889a-f50130fada5c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DZ3/Task1/Calculation1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DZ3/Task1/Calculation1_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DZ3/Task1/Calculation2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DZ3/Task2/ArrayComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DZ3/Task2/ArrayComparator2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DZ3/Task2/ArrayComparator3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DZ3/Task2/ArrayComparator4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DZ3/Task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DZ3/Task3/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DZ3/Task3/Pair2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DZ4/Employee2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DZ4/EmployeeCriterion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DZ4/EmployeeView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DZ4/EmployeesActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DZ4/ExperienceCriterion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DZ4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DZ4/PersonnelNumberCriterion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DZ4/PhoneNumberCriterion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DZ1/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/DZ1/log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DZ1/ClientGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DZ1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DZ1/ServerWindow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DZ1/log.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DZ2/Clients/ClientController.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DZ2/Clients/ClientGUI.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DZ2/Clients/ClientInfo.java" beforeDir="false" />
@@ -32,6 +33,14 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DZ2/Server/ServerWindowGUI.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DZ2/Server/ServerWindowView.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DZ2/log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DZ3/Task1/Calculation1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DZ3/Task2/ArrayComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DZ3/Task2/ArrayComparator2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DZ3/Task2/ArrayComparator3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DZ3/Task2/ArrayComparator4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DZ3/Task3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DZ3/Task3/Pair.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DZ3/Task3/Pair2.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
